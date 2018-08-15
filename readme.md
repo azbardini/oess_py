@@ -2,4 +2,4 @@
 
 This API uses GET requests to comunicate with the GlobalNoc OESS.
 
-OESS site can be found [here](https://github.com/azbardini/oess_py).
+The OESS software can be found [here](https://docs.globalnoc.iu.edu/sdn/oess.html).
